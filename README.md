@@ -16,8 +16,7 @@ Clone o repositório e acesse a pasta do projeto:
 git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
 cd SEU-REPOSITORIO
 Instale as dependências e inicie o servidor de desenvolvimento:
-npm install
-npm run dev
+npm install / npm run dev
 O Vite exibirá o endereço local, normalmente http://localhost:5173.
 Scripts disponíveis
 Comando	Descrição
@@ -29,6 +28,4 @@ npm test	Executa os testes automatizados das funções de cálculo.
 
 
 Antes de publicar, execute:
-npm run lint
-npm test
-npm run build
+npm run lint / npm test / npm run build
