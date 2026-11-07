@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "A importância da tecnologia no mundo moderno",
+        "content": "A importância da tecnologia no mundo moderno\nNo século XXI, a tecnologia transformou-se em parte essencial do cotidiano. Desde smartphones, tablets e computadores até dispositivos inteligentes, como assistentes virtuais (ex.: Alexa, Google Home), ela molda a forma como vivemos e trabalhamos.\nUm exemplo marcante é a internet, que conecta bilhões de pessoas ao redor do mundo. Hoje, é possível enviar um e-mail para outro continente em segundos, organizar reuniões online através de plataformas como Zoom ou Teams, e até comprar produtos com um único clique!\nNo entanto, essa evolução traz desafios. Será que estamos preparados para lidar com questões como segurança digital (senhas fortes: @S3gur@nca!) e privacidade? Dados mostram que, em 2023, os ataques cibernéticos cresceram 15%!. Isso reforça a necessidade de educação sobre o uso consciente da tecnologia.\nCuriosidade: o primeiro computador pessoal (PC), chamado Altair 8800, foi lançado em 1975. Ele era simples, comparado aos atuais, mas marcou o início de uma revolução!\nPor fim, lembre-se: aproveite os benefícios que a tecnologia oferece, mas não se esqueça de fazer pausas para evitar fadiga digital. E agora, experimente digitar este texto com atenção aos detalhes!"
+    },
+    {
+        "id": 2,
+        "title": "Natureza e Sustentabilidade",
+        "content": "Natureza e Sustentabilidade\nA preservação da natureza é essencial para garantir um futuro sustentável. As florestas, por exemplo, absorvem gás carbônico (CO₂) e produzem oxigênio (O₂), fundamental para a vida no planeta.\nDados indicam que, em 2022, foram desmatados mais de 10 milhões de hectares de florestas ao redor do mundo. Este número alarmante destaca a importância de práticas como o reflorestamento e o uso de energia renovável (ex.: eólica, solar).\nCuriosidade: você sabia que uma única árvore pode armazenar até 22 kg de CO₂ por ano? Além disso, reciclar papel economiza 70% de água em comparação à produção tradicional!\nLembre-se: pequenas ações fazem diferença. Plante uma árvore, evite o desperdício de água e recicle sempre que possível."
+    },
+    {
+        "id": 3,
+        "title": "Curiosidades sobre o Universo",
+        "content": "Curiosidades sobre o Universo\nO universo é fascinante! Você sabia que ele tem aproximadamente 13,8 bilhões de anos? A Via Láctea, nossa galáxia, possui cerca de 100 bilhões de estrelas, incluindo o Sol.\nUm fato curioso: a luz do Sol demora cerca de 8 minutos e 20 segundos para chegar à Terra. Além disso, o maior planeta do Sistema Solar é Júpiter, enquanto Plutão, rebaixado em 2006, agora é considerado um 'planeta anão'.\nPara os amantes de astronomia, vale lembrar que os buracos negros têm uma gravidade tão intensa que nem mesmo a luz escapa!\nDica: no próximo céu limpo, observe as estrelas e tente localizar constelações como Órion ou Escorpião. É uma experiência incrível!"
+    },
+    {
+        "id": 4,
+        "title": "Culinária e Sabores do Mundo",
+        "content": "Culinária e Sabores do Mundo\nA culinária é uma arte que conecta culturas. Quem nunca provou um delicioso spaghetti alla carbonara italiano ou um aromático curry indiano? Cada prato conta uma história e reflete as tradições de um povo.\nPor exemplo, o sushi, famoso prato japonês, surgiu no século VIII como uma forma de conservar peixes utilizando arroz fermentado. Já a feijoada, ícone brasileiro, tem origens que remontam ao período colonial.\nCuriosidade: o bolo mais caro do mundo foi avaliado em US$ 75 milhões! Ele tinha diamantes incrustados como decoração.\nSeja doce ou salgado, simples ou sofisticada, a comida une as pessoas. Que tal preparar algo novo hoje?"
+    }
+]

@@ -1,0 +1,17 @@
+.text {
+  margin-top: 17px;
+  min-height: 155px;
+  color: #697386;
+  font: 500 15px/1.95 'DM Sans', sans-serif;
+  letter-spacing: .05px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.character { border-radius: 2px; transition: color .08s ease, background .08s ease; }
+.correct { color: #147a5d; }
+.incorrect { color: #b83243; background: #ffe5e8; text-decoration: underline; text-decoration-thickness: 1px; }
+.current { color: #414958; background: #e7e4ff; box-shadow: 0 2px 0 #6558e8; }
+
+@media (max-width: 560px) {
+  .text { min-height: 170px; font-size: 13px; line-height: 1.9; }
+}

@@ -1,0 +1,29 @@
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #20242d;
+  font: 800 21px/1 'Manrope', sans-serif;
+  letter-spacing: -.9px;
+}
+
+.brandName > span { color: #6558e8; }
+.mark {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 11px;
+  background: #6558e8;
+  color: #fff;
+}
+.mark svg { width: 23px; height: 23px; }
+
+:global(.site-footer) .brand { gap: 7px; font-size: 16px; }
+:global(.site-footer) .mark { width: 28px; height: 28px; border-radius: 8px; }
+:global(.site-footer) .mark svg { width: 18px; height: 18px; }
+
+@media (max-width: 560px) {
+  .brand { gap: 8px; font-size: 18px; }
+  .mark { width: 32px; height: 32px; }
+}
